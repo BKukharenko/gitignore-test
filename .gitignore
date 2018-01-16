@@ -1,0 +1,11 @@
+wp-admin/
+wp-includes/
+*.php
+*.html
+license.txt
+wp-content/*.php
+wp-content/plugins/
+wp-content/upgrade/
+wp-content/themes/*.php
+wp-content/themes/twentysixteen/
+wp-content/themes/twentyseventeen/
